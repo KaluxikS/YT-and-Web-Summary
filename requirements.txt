@@ -1,0 +1,14 @@
+langchain
+ipykernel
+python-dotenv
+langchain_community
+bs4
+pdfplumber
+markdownify
+validators==0.28.1
+youtube_transcript_api
+streamlit
+pyyaml
+distro
+unstructured
+pytube
